@@ -1,3 +1,1 @@
-# Basics-of-Unsupervised-learning
-# Used Dataset
-  Iris Flower Dataset
+This repository contains a jupyter notebook in which I have explored mnist fashion dataset included in Keras and I have designed model using CNN(Convolutional neural network) and its accuracy is 91%. It can be improved by using more denser neural network.
